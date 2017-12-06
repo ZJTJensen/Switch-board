@@ -1,0 +1,32 @@
+#wrapper{
+    width: 1300px;
+    height: auto;
+    margin: 10px auto;
+}
+h1{
+    text-align: center;
+    margin: 0 80px 0 0;
+}
+.back{
+    background-color: black;
+    display: inline-block;
+    width: 100px;
+    height: 100px;
+    margin: 0px 0 0 10px;
+    border: 1px solid blue;
+}
+
+.center{
+    background-color: red;
+    color: wheat;
+    height: 60px;
+    width: 60px;
+    margin: 20px auto;
+    text-align: center;
+    line-height: 3.5em;
+    
+}
+
+.color{
+    background-color: green;
+}
